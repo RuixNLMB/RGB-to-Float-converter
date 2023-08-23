@@ -1,0 +1,11 @@
+C:\Users\gmrki\source\repos\adsggasagsd\adsggasagsd\bin\Release\adsggasagsd.exe.config
+C:\Users\gmrki\source\repos\adsggasagsd\adsggasagsd\bin\Release\adsggasagsd.exe
+C:\Users\gmrki\source\repos\adsggasagsd\adsggasagsd\bin\Release\adsggasagsd.pdb
+C:\Users\gmrki\source\repos\adsggasagsd\adsggasagsd\obj\Release\adsggasagsd.csproj.AssemblyReference.cache
+C:\Users\gmrki\source\repos\adsggasagsd\adsggasagsd\obj\Release\adsggasagsd.csproj.SuggestedBindingRedirects.cache
+C:\Users\gmrki\source\repos\adsggasagsd\adsggasagsd\obj\Release\adsggasagsd.Form1.resources
+C:\Users\gmrki\source\repos\adsggasagsd\adsggasagsd\obj\Release\adsggasagsd.Properties.Resources.resources
+C:\Users\gmrki\source\repos\adsggasagsd\adsggasagsd\obj\Release\adsggasagsd.csproj.GenerateResource.cache
+C:\Users\gmrki\source\repos\adsggasagsd\adsggasagsd\obj\Release\adsggasagsd.csproj.CoreCompileInputs.cache
+C:\Users\gmrki\source\repos\adsggasagsd\adsggasagsd\obj\Release\adsggasagsd.exe
+C:\Users\gmrki\source\repos\adsggasagsd\adsggasagsd\obj\Release\adsggasagsd.pdb
