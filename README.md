@@ -1,3 +1,3 @@
 # RGB-to-Float-converter
 Download in releases
-![Screenshot_29](https://github.com/RuixNLMB/RGB-to-Float-converter/assets/133067832/6e547ddb-b8d9-4206-97a8-dd0bfbe1c2ad)
+![Screenshot_38](https://github.com/RuixNLMB/RGB-to-Float-converter/assets/133067832/ca5bee86-2ea6-42ec-b71b-40c07e5a44d7)
